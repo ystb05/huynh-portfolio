@@ -5,8 +5,8 @@ This portfolio showcases my projects in financial modeling, cash flow forecastin
 
 ## Finance Projects
 1. [Ingredient Cost Variance Analysis](https://github.com/ystb05/Ingredient-Cost-Variance-Analysis/blob/main/README.md)
-2. [Bank Reconciliation](./Bank%20Reconciliation.md)
-3. [Cash Flow Management: 13-Week Cash Flow Forecast](./Cash%20Flow%20Management.md)
+2. [Bank Reconciliation](https://github.com/ystb05/Bank-reconciliation/blob/main/README.md)
+3. [Cash Flow Management: 13-Week Cash Flow Forecast](https://github.com/ystb05/Cash-Flow-Management/blob/main/README.md)
 4. [Career Fair 2026: Case Study of SSI](./Career%20Fair%20Case%20Study%20of%20SSI.pdf)
 5. Equity Research: VietJet Investment, including [PDF](./QUADALPHA_Semi-Final-Round_IRC-2026%20.pdf) & [Excel](./Equity%20Research%20VietJet%20Investment.xlsx)
    
